@@ -3,7 +3,7 @@ import React from 'react'
 import Style from "@/css/home.module.css"
 const Page = () => {
     return (
-        <div className={`bg-black/90 text-white ${Style.montSerrat} `}>
+        <div className={`bg-black/90 text-white ${Style.montSerrat} scroll-smooth`}>
            
             {/* Why Us */}
             <div className="relative p-5 mx-auto container flex items-center justify-center">

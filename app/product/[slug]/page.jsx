@@ -87,7 +87,7 @@ export default async function ProductPage({ params }) {
     }
 
     return (
-        <div>
+        <div className='scroll-smooth'>
 
             <section class="">
                 <div class="py-24 mx-auto">

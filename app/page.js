@@ -12,7 +12,7 @@ import {
     CarouselNext,
     CarouselPrevious,
 } from "@/components/ui/carousel"
-
+import Image from 'next/image';
 
 const Page = () => {
     const carousel = [
@@ -44,7 +44,7 @@ const Page = () => {
         
     ]
     return (
-        <div className={`container`}>
+        <div className={`container scroll-smooth`}>
             {/* Main Section */}
             <section className=" body-font ">
                 <div className="">
@@ -52,7 +52,7 @@ const Page = () => {
 
                         <div className="w-1/2 flex flex-col md:pl-5">
                             <div className='flex flex-col items-end'>
-                                <img src="/40544 1.png" className='md:mt-40 mt-10' alt="" />
+                                <img  src="/40544 1.png" className='md:mt-40 mt-10' alt="" />
                             </div>
                             <h2 className='text-lg font-semibold pt-6 pb-4'>Commercial Fitness Product</h2>
                             <Carousel

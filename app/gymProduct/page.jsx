@@ -36,7 +36,7 @@ const TabContent = ({ isSelected, children }) => (
 const Page = () => {
     const [selectedTab, setSelectedTab] = useState(1);
     return (
-        <div className={`bg-black/90 text-white ${Style.montSerrat} container`}>
+        <div className={`bg-black/90 text-white ${Style.montSerrat} container scroll-smooth`}>
             {/* Product */}
             <div className="  mx-auto m-5 flex items-center justify-center w-full h-28 border">
                 <h2 className="md:text-4xl text-xl text-center font-bold md:mb-4">Product</h2>

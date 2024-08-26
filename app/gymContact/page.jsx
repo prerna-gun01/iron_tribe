@@ -63,7 +63,7 @@ function Page() {
     };
 
     return (
-        <div className={`bg-black/90 text-white ${Style.montSerrat} `}>
+        <div className={`bg-black/90 text-white ${Style.montSerrat} scroll-smooth`}>
             {/* Contact */}
             {/* <div className="relative p-5 mx-auto container flex items-center justify-center">
 
