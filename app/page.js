@@ -164,7 +164,7 @@ const Page = () => {
                                         every rep brings you closer to greatness.</span>
                                 </div>
                                 <div className="flex relative flex-col flex-wrap justify-center content-center self-stretch px-0 mt-36 text-white max-md:px-5 max-md:mt-10 max-md:max-w-full mb-10 ">
-                                    <div className="flex gap-5 justify-between whitespace-nowrap max-md:flex-wrap max-md:max-w-full">
+                                    {/* <div className="flex gap-5 justify-between whitespace-nowrap max-md:flex-wrap max-md:max-w-full">
                                         <div className="flex flex-col flex-1 justify-center w-[120px] md:w-fit text-wrap">
                                             <div className="flex flex-col md:flex-row gap-3.5 justify-between px-4 py-6 rounded-2xl border-2 border-solid border-zinc-300">
                                                 <div className="w-12 rounded-full bg-zinc-300 h-[49px]" />
@@ -205,7 +205,7 @@ const Page = () => {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
