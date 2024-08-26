@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.montSerrat{
+    font-family: "Montserrat", sans-serif;
+    
+}
+.backgroundColor{
+    background-color: rgba(35, 35, 35, 0.778);
+}
+.backgroundCoolor{
+    background-color: rgba(4, 4, 4, 0.882);
+  
+}
+.heading{
+    line-height: 1.25%;
+}
+
+.filter{
+    filter: brightness(25%) blur(2px);
+    /* filter: blur(1px); */
+}
+
+.backgroundImage{
+    background-image: url('/Core Values.png');
+    height: 176px;
+    width: 167px;
+}
+.responsive{
+    display: flex;
+}
+
+@media screen and  (min-width: 770px) and (max-width: 1024px) {
+    .responsive {
+        background-color: yellow;
+    }
+  }
+
+.anchor::before{
+    content: "";
+    height: 2px;
+    width: 10px;
+    background-color: antiquewhite;
+}

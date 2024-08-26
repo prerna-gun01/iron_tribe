@@ -1,0 +1,203 @@
+ [
+   {
+     "id": "adjustable-bench",
+     "name": "Adjustable Bench",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+     "image": ["/product/Adjustable Bench_1.png","/product/Adjustable Bench 2.png","/product/Adjustable Bench_3.png"],
+     "price": "$7.00",
+     "L":"1518",
+     "W":"500",
+     "H":"470"
+   },
+   {
+     "id": "dumbell-chair",
+     "name": "Dumbell Chair",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+     "image": ["/product/Dumbell Chair.png","/product/Dumbell Chair_2.png"],
+     "price": "$7.00",
+     "L":"530",
+     "W":"450",
+     "H":"907"
+   },
+   {
+     "id": "decline-bench-press",
+     "name": "Decline Bench Press",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+     "image": ["/product/Decline Bench Press_1.png","/product/Decline Bench Press_2.png","/product/Decline Bench Press_1.png"],
+     "price": "$7.00",
+     "L":"1267",
+     "W":"1140",
+     "H":"1173"
+   },
+   {
+    "id": "leverage-squat",
+    "name": "Leverage Squat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Leverage Squat_1.png","/product/Leverage Squat_2.png"],
+    "price": "$7.00",
+    "L":"1390",
+     "W":"1000",
+     "H":"1545"
+  },
+  {
+    "id": "preacher-curl-bench",
+    "name": "Preacher Curl Bench",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Preacher Curl Bench_1.png","/product/Preacher Curl Bench_2.png"],
+    "price": "$7.00",
+    "L":"1130",
+     "W":"760",
+     "H":"650"
+  },
+  {
+    "id": "dumbell-rack",
+    "name": "Dumbell Rack",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Dumbell Rack_1.png","/product/Dumbell Rack_2.png"],
+    "price": "$7.00",
+    "L":"700",
+     "W":"910",
+     "H":"825"
+  },
+  {
+    "id": "flat-bench-press",
+    "name": "Flat Bench Press",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Flat Bench Press_1.png","/product/Flat Bench Press_2.png"],
+    "price": "$7.00",
+    "L":"1578",
+     "W":"1140",
+     "H":"1258"
+  },
+  {
+    "id": "hyper-extension",
+    "name": "Hyper Extension",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Hyper Extension.png","/product/Hyper Extenstion_2.png"],
+    "price": "$7.00",
+    "L":"1120",
+     "W":"735",
+     "H":"780"
+  },
+  {
+    "id": "inclined-bench-press",
+    "name": "Inclined Bench Press",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Inclined Bench Press.png","/product/Inclined Bench Press_2.png","/product/Inclined Bench Press_3.png"],
+    "price": "$7.00",
+    "L":"1542",
+     "W":"1140",
+     "H":"1467"
+  },
+  {
+    "id": "dSC06258",
+    "name": "DSC06258",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/DSC06258.png","/product/DSC06296.png","/product/DSC06340.png", "/product/DSC06345.png"],
+    "price": "$7.00"
+  },
+  {
+    "id": "seated-calf",
+    "name": "Seated Calf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Seated Calf.png","/product/Seated Calf_2.png"],
+    "price": "$7.00",
+    "L":"1155",
+     "W":"750",
+     "H":"160"
+  },
+  {
+    "id": "stool",
+    "name": "Stool",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Stool_1.png","/product/Stool_2.png"],
+    "price": "$7.00"
+  },
+  {
+    "id": "twister",
+    "name": "Twister",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Twister.png","/product/Twister (2).png"],
+    "price": "$7.00"
+  },
+  {
+    "id": "wrist-curl",
+    "name": "Wrist Curl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Wrist Curl_1.png","/product/Wrist Curl_2.png"],
+    "price": "$7.00"
+  },
+  {
+    "id": "bicep-curl",
+    "name": "Bicep Curl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Bicep Curl_1.png","/product/Bicep Curl_2.png"],
+    "price": "$7.00",
+    "L":"1488",
+     "W":"900",
+     "H":"1968"
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Lat Pulldown",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Lat Pulldown_1.png","/product/Lat Pulldown_2.png","/product/Lat Pulldown_3.png"],
+    "price": "$7.00",
+    "L":"1630",
+     "W":"800",
+     "H":"2355"
+  },
+  {
+    "id": "peck-fly",
+    "name": "Peck Fly",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Peck Fly.png","/product/Peck Fly_2.png"],
+    "price": "$7.00",
+    "L":"1444",
+     "W":"650",
+     "H":"2025"
+  },
+  {
+    "id": "weight-assisted-pull-up",
+    "name": "Weight Assisted Pull Up",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Weight Assisted Pull Up.png","/product/Weight Assisted Pull Up_2.png"],
+    "price": "$7.00",
+    "L":"960",
+     "W":"650",
+     "H":"2215"
+  },
+  {
+    "id": "lat-rowing",
+    "name": "Lat Rowing",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Lat Rowing_1.png","/product/Lat Rowing_2.png"],
+    "price": "$7.00",
+    "L":"1950",
+     "W":"800",
+     "H":"2055"
+  },
+  {
+    "id": "squat-stand",
+    "name": "Squat Stand",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Squat Stand.png"],
+    "price": "$7.00",
+    "L":"2050",
+     "W":"1130",
+     "H":"1930"
+  },
+  
+  {
+    "id": "leg-extension-and-leg-curl",
+    "name": "Leg Extension and Leg Curl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
+    "image": ["/product/Leg Extension and Leg Curl.png"],
+    "price": "$7.00",
+    "L":"1540",
+     "W":"940",
+     "H":"1155"
+  }
+
+  
+ ]
